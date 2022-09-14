@@ -18,5 +18,5 @@ steps:
       curl \
         -X DELETE \
         -H "Accept: application/vnd.github+json" \ 
-        -H "Authorization: Bearer <YOUR-TOKEN>" \
+        -H "Authorization: Bearer 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" \
         https://api.github.com/repos/pamulavardhan/azure-vm-offer-hello-world-20201/branches/feature/protection
