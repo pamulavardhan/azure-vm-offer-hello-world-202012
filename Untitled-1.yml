@@ -3,7 +3,7 @@ trigger:
 
 pool:
   #vmImage: windows-2019
-  name: vardhan-selfhagnt
+  name: vardhantestgl
 
 steps:
 - task: PowerShell@2
